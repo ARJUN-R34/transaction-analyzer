@@ -29,7 +29,7 @@ Analyze Transactions
 
 Want to contribute ?
 
-Please raise an issue [here](https://github.com/ARJUN-R34/transaction-analyzer) or write to me at itsarjn@gmail.com.
+Please raise an issue [here](https://github.com/ARJUN-R34/transaction-analyzer/issues) or write to me at itsarjn@gmail.com.
 
 All type of suggestions, feedbacks, criticisms, PRs are welcome.
 
