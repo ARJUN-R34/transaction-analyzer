@@ -1,4 +1,3 @@
-const axios= require('axios');
 const Web3 = require('web3');
 
 const events = require('../events');
