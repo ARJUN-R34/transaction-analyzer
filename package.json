@@ -1,0 +1,21 @@
+{
+  "name": "transaction-analyzer",
+  "version": "1.0.0",
+  "description": "Transaction Analyzer",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ARJUN-R34/transaction-analyzer"
+  },
+  "author": "Arjun Sasikumar",
+  "license": "ISC",
+  "homepage": "https://github.com/ARJUN-R34/transaction-analyzer",
+  "dependencies": {
+    "abi-decoder": "^2.4.0",
+    "axios": "^0.21.1",
+    "web3": "^1.7.1"
+  }
+}

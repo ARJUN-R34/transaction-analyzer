@@ -1,0 +1,11 @@
+.git
+node_modules
+.nyc_output
+.npmrc
+
+test.js
+.terraform
+*.tfstate*
+.DS_Store
+.vscode
+test.js
